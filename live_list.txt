@@ -1,2 +1,2 @@
-广东
+广东,#genre#
 珠江频道,https://tcdn.itouchtv.cn/live/gdzj.m3u8
